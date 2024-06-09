@@ -37,8 +37,8 @@ Welcome to the Spotify Love Songs project! This project is a simple web applicat
 
 ## Credits
 
-- This project was created by [Your Name].
-- Songs in this playlist are from [Source of Songs].
+- This project was created by Pandugula Vamshi krishna
+- Songs in this playlist are from Naa songs.
 - Icons provided by [FontAwesome](https://fontawesome.com/).
 
 ## License
@@ -47,4 +47,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Enjoy the music!
 
-For any questions or feedback, please contact [Your Email Address].
+For any questions or feedback, please contact vamshikrishna788sai@gmail.com
